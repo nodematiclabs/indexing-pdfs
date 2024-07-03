@@ -1,0 +1,1065 @@
+mouseWheel:
+  _isScalar: false
+  closed: false
+  isStopped: false
+  hasError: false
+  thrownError: null
+  __isAsync: false
+elementDraw:
+  _isScalar: false
+  closed: false
+  isStopped: false
+  hasError: false
+  thrownError: null
+  __isAsync: false
+height: 772
+snapSettings:
+  constraints: 16
+serializationSettings:
+  preventDefaults: true
+contextMenuSettings:
+  show: true
+  items:
+    - iconCss: fa fa-cogs
+      id: edit
+      target: .e-elementcontent
+      text: Edit
+    - iconCss: fa fa-crosshairs
+      id: callout
+      target: .e-elementcontent
+      text: Callout To
+    - iconCss: fa fa-font
+      id: increaseFontSize
+      target: .e-elementcontent
+      text: Increase font size ↑
+    - iconCss: fa fa-font
+      id: decreaseFontSize
+      target: .e-elementcontent
+      text: Decrease font size ↓
+    - iconCss: fa fa-tint
+      id: fill
+      target: .e-elementcontent
+      text: Fill
+    - iconCss: fa fa-lightbulb-o
+      id: highlight
+      target: .e-elementcontent
+      text: Highlight
+    - iconCss: fa fa-compress
+      id: collapseToSquare
+      target: .e-elementcontent
+      text: Collapse to square
+    - iconCss: fa fa-compress
+      id: collapseToNamedSquare
+      target: .e-elementcontent
+      text: Collapse to named square
+    - iconCss: fa fa-compress
+      id: collapseToCircle
+      target: .e-elementcontent
+      text: Collapse to circle
+    - iconCss: fa fa-expand
+      id: expand
+      target: .e-elementcontent
+      text: Expand
+    - iconCss: fa fa-angle-double-up
+      id: front
+      target: .e-elementcontent
+      text: Bring to front
+    - iconCss: fa fa-angle-up
+      id: forward
+      target: .e-elementcontent
+      text: Bring forward
+    - iconCss: fa fa-angle-down
+      id: backward
+      target: .e-elementcontent
+      text: Send backward
+    - iconCss: fa fa-angle-double-down
+      id: back
+      target: .e-elementcontent
+      text: Send to back
+    - iconCss: fa fa-times
+      id: remove
+      target: .e-elementcontent
+      text: Remove
+  showCustomMenuOnly: true
+tool: 5
+scrollSettings:
+  scrollLimit: Infinity
+  viewPortWidth: 1186
+  viewPortHeight: 772
+  horizontalOffset: -10
+  verticalOffset: -330
+addInfo:
+  currencySymbol: $
+  currencyText: USD ($)
+  selectedViewType: 0
+connectors:
+  - addInfo:
+      viewConnector: 0
+    id: Straight ConnectorJvRI4
+    sourceID: PDF FileWmOsh
+    sourcePoint:
+      x: 124
+      y: 161
+    style:
+      strokeWidth: 2
+    targetDecorator:
+      shape: OpenArrow
+    targetID: Document AIUgcfA
+    targetPoint:
+      x: 158
+      y: 161
+    zIndex: 3
+  - addInfo:
+      viewConnector: 0
+    id: Dashed Straight Connectordc5dJ
+    sourceID: Google Cloud PlatformZZRXi
+    sourcePoint:
+      x: 308
+      y: 236
+    style:
+      strokeWidth: 2
+      strokeDashArray: 2 2
+    targetDecorator:
+      shape: OpenArrow
+    targetID: Document AIUgcfA
+    targetPoint:
+      x: 308
+      y: 211
+    zIndex: 5
+  - addInfo:
+      viewConnector: 0
+    id: Straight ConnectoraTNPh
+    sourceID: Document AIUgcfA
+    sourcePoint:
+      x: 458
+      y: 161
+    style:
+      strokeWidth: 2
+    targetDecorator:
+      shape: OpenArrow
+    targetPoint:
+      x: 492
+      y: 161
+    zIndex: 7
+  - addInfo:
+      viewConnector: 0
+    id: Dashed Straight ConnectorE84oZ
+    sourceID: PythongW3mO
+    sourcePoint:
+      x: 415.68
+      y: 54
+    style:
+      strokeWidth: 2
+      strokeDashArray: 2 2
+    targetDecorator:
+      shape: OpenArrow
+    targetID: Document AIUgcfA
+    targetPoint:
+      x: 358.32
+      y: 111
+    zIndex: 9
+  - id: Dashed Straight ConnectorUiy5b
+    targetDecorator:
+      shape: OpenArrow
+    style:
+      strokeWidth: 2
+      strokeDashArray: 2 2
+    sourcePoint:
+      x: 791.5
+      y: 111
+    targetPoint:
+      x: 791.5
+      y: 171
+    sourceID: GeminiamgnV
+    targetID: Vertex AINimBo
+    addInfo:
+      viewConnector: 0
+    zIndex: 13
+  - id: Orthogonal ConnectorNCexq
+    type: Orthogonal
+    targetDecorator:
+      shape: OpenArrow
+    style:
+      strokeWidth: 2
+    constraints: 470654
+    sourcePoint:
+      x: 592
+      y: 161
+    targetPoint:
+      x: 641.5
+      y: 221
+    sourceID: Text DataDhrGc
+    targetID: Vertex AINimBo
+    segments:
+      - type: Orthogonal
+    addInfo:
+      viewConnector: 0
+    zIndex: 14
+  - id: Orthogonal ConnectoruvRRs
+    type: Orthogonal
+    targetDecorator:
+      shape: OpenArrow
+    style:
+      strokeWidth: 2
+    constraints: 470654
+    sourcePoint:
+      x: 941.5
+      y: 221
+    targetPoint:
+      x: 991
+      y: 161
+    sourceID: Vertex AINimBo
+    targetID: Text Datap2He2
+    segments:
+      - type: Orthogonal
+    addInfo:
+      viewConnector: 0
+    zIndex: 15
+  - id: Dashed Straight ConnectorFLHSg
+    targetDecorator:
+      shape: OpenArrow
+    style:
+      strokeWidth: 2
+      strokeDashArray: 2 2
+    sourcePoint:
+      x: 541
+      y: 54
+    targetPoint:
+      x: 716.5
+      y: 171
+    sourceID: PythongW3mO
+    targetID: Vertex AINimBo
+    addInfo:
+      viewConnector: 0
+    zIndex: 16
+  - id: Dashed Straight ConnectorPRrFI
+    targetDecorator:
+      shape: OpenArrow
+    style:
+      strokeWidth: 2
+      strokeDashArray: 2 2
+    sourcePoint:
+      x: 466
+      y: -77
+    targetPoint:
+      x: 466
+      y: -46
+    sourceID: Vertex AIcG0sT
+    targetID: PythongW3mO
+    addInfo:
+      viewConnector: 0
+    zIndex: 19
+nodes:
+  - shape:
+      content: '<div class="c-html" style="background-color: #3871e0;"><div
+        class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/document_ai_Black_87_dijqgu.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/document_ai_dik8ue.png);"></div><div
+        class="c-text"><div class="c-title">Document AI</div><div
+        class="c-short-description">Extracting structured data and insights from
+        unstructured documents efficiently</div><div class="c-bottom"><div
+        class="c-hr p-mb-1"></div><div class="c-title-bottom">Google Cloud
+        Platform</div></div></div></div></div>'
+      type: HTML
+    addInfo:
+      category: 4
+      color: "#3871e0"
+      controlText: Document AI
+      dynamicsViewSettings:
+        - name: Processing Tool
+          portsIn:
+            job: input
+          portsOut:
+            job: output
+          serviceTime:
+            exp:
+              lambda: AverageProcessingTime
+          type: Processor
+      dynamicsViews:
+        - AverageProcessingTime: 1
+          name: Processing Tool
+          status: Idle
+          type: Processor
+      economicView:
+        name: Document AI
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 2
+        unknown: false
+        shortDescription: Extracting structured data and insights from unstructured
+          documents efficiently
+        viewType: total
+      editableName: Document AI
+      functionView:
+        activityRatio: 0
+        completeAndAccuratePerc: 0
+        leadTime: 0
+        leadTimeSeconds: 0
+        name: Document AI
+        processTime: 0
+        processTimeSeconds: 0
+        shortDescription: Extracting structured data and insights from unstructured
+          documents efficiently
+        viewType: metrics
+      id: ""
+      imgBlackUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/document_ai_Black_87_dijqgu.png
+      imgPrimaryUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/document_ai__044448_svofdf.png
+      imgUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/document_ai_dik8ue.png
+      name: Document AI
+      nodeType: html
+      selectedDynamicsView: 0
+      size: sm
+      status: N/A
+      title: Document AI
+      type: component
+      latitude: null
+      longitude: null
+    height: 100
+    id: Document AIUgcfA
+    offsetX: 308
+    offsetY: 161
+    width: 300
+    zIndex: 1
+    inEdges:
+      - Straight ConnectorJvRI4
+      - Dashed Straight Connectordc5dJ
+      - Dashed Straight ConnectorE84oZ
+    outEdges:
+      - Straight ConnectoraTNPh
+  - shape:
+      content: '<div class="c-html" style="background-color: #4e3391; border-radius:
+        10px"><div class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1681199388/sds_logos/Document_PDF_Black_87_v2_rysajs.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1681199389/sds_logos/Document_PDF_v2_sqzd83.png);
+        border-radius: 10px"></div></div><div class="c-undername"><div>PDF
+        File</div></div><hr class="c-underrule" style="background-color:
+        #4e3391"></div>'
+      type: HTML
+    addInfo:
+      category: 3
+      collapsedToCircle: false
+      collapsedToNamedSquare: true
+      collapsedToSquare: false
+      color: "#4e3391"
+      controlText: PDF File
+      dynamicsViewSettings:
+        - messageInterdepartureTime:
+            exp:
+              lambda: AverageTimeBetweenData
+          name: Data Generator
+          portsIn: {}
+          portsOut:
+            job: data
+          type: Generator
+      dynamicsViews:
+        - AverageTimeBetweenData: 1
+          name: Data Generator
+          status: Idle
+          type: Generator
+      economicView:
+        accelerators: 0
+        cpus: 0
+        memory: 0
+        name: PDF File
+        networking: 0
+        other: 0
+        storage: 0
+        unknown: false
+        viewType: total
+      editableName: PDF File
+      functionView:
+        activityRatio: 0
+        completeAndAccuratePerc: 0
+        leadTime: 0
+        leadTimeSeconds: 0
+        name: PDF File
+        processTime: 0
+        processTimeSeconds: 0
+        viewType: metrics
+      id: ""
+      imgBlackUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199388/sds_logos/Document_PDF_Black_87_v2_rysajs.png
+      imgPrimaryUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199389/sds_logos/Document_PDF__044448_v2_supg5y.png
+      imgUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199389/sds_logos/Document_PDF_v2_sqzd83.png
+      name: PDF File
+      nodeType: html
+      selectedDynamicsView: 0
+      size: sm
+      status: N/A
+      title: PDF File
+      type: component
+    height: 124
+    id: PDF FileWmOsh
+    offsetX: 74
+    offsetY: 161
+    width: 100
+    zIndex: 2
+    outEdges:
+      - Straight ConnectorJvRI4
+  - shape:
+      content: "<div class=\"c-html\" style=\"background-color: #3871e0;\"><div
+        class=\"c-container\"><div class=\"c-image-primary\"
+        style=\"background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1686897630/sds_l\
+        ogos/Google_Cloud_Platform_V2_Black_87_t3ijkn.png);\"></div><div
+        class=\"c-image-original\" style=\"background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1686897630/sds_l\
+        ogos/Google_Cloud_Platform_V2_k0j2om.png);\"></div><div
+        class=\"c-text\"><div class=\"c-title\">Google Cloud Platform</div><div
+        class=\"c-short-description\">Developing, deploying, and managing
+        scalable applications and services on Google's infrastructure</div><div
+        class=\"c-bottom\"><div class=\"c-hr p-mb-1\"></div><div
+        class=\"c-title-bottom\">Google Cloud
+        Platform</div></div></div></div></div>"
+      type: HTML
+    addInfo:
+      category: 2
+      color: "#3871e0"
+      controlText: Google Cloud Platform
+      dynamicsViewSettings:
+        - name: Deployment Target
+          portsIn:
+            get: request
+            put: deployed
+          portsOut:
+            stored: response
+          type: Storage
+        - name: Processing Tool
+          portsIn:
+            job: input
+          portsOut:
+            job: output
+          serviceTime:
+            exp:
+              lambda: AverageProcessingTime
+          type: Processor
+      dynamicsViews:
+        - name: Deployment Target
+          status: Idle
+          type: Storage
+        - AverageProcessingTime: 1
+          name: Processing Tool
+          status: Idle
+          type: Processor
+      economicView:
+        name: Google Cloud Platform
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        shortDescription: Developing, deploying, and managing scalable applications and
+          services on Google's infrastructure
+        viewType: description
+      editableName: Google Cloud Platform
+      functionView:
+        activityRatio: 0
+        completeAndAccuratePerc: 0
+        leadTime: 0
+        leadTimeSeconds: 0
+        name: Google Cloud Platform
+        processTime: 0
+        processTimeSeconds: 0
+        shortDescription: Developing, deploying, and managing scalable applications and
+          services on Google's infrastructure
+        viewType: metrics
+      id: ""
+      imgBlackUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1686897630/sds_logos/Google_Cloud_Platform_V2_Black_87_t3ijkn.png
+      imgPrimaryUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1686897630/sds_logos/Google_Cloud_Platform_V2__044448_wcvymi.png
+      imgUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1686897630/sds_logos/Google_Cloud_Platform_V2_k0j2om.png
+      name: Google Cloud Platform
+      nodeType: html
+      selectedDynamicsView: 0
+      size: sm
+      status: N/A
+      title: Google Cloud Platform
+      type: component
+    height: 100
+    id: Google Cloud PlatformZZRXi
+    offsetX: 308
+    offsetY: 286
+    width: 300
+    zIndex: 4
+    outEdges:
+      - Dashed Straight Connectordc5dJ
+  - shape:
+      content: '<div class="c-html" style="background-color: #3B77A7;"><div
+        class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1663310164/sds_logos/Programming%20Languages/Python_A__Black_87_nciqru.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1663310164/sds_logos/Programming%20Languages/Python_A_sgxbzs.png);"></div><div
+        class="c-text"><div class="c-title">Python Script</div><div
+        class="c-short-description">Python script for automating DocumentAI and
+        LLM processing</div><div class="c-bottom"><div class="c-hr
+        p-mb-1"></div><div
+        class="c-title-bottom">Python</div></div></div></div></div>'
+      type: HTML
+    addInfo:
+      category: 7
+      color: "#3B77A7"
+      controlText: Python
+      dynamicsViewSettings:
+        - name: Automated Task
+          portsIn:
+            job: input
+          portsOut:
+            job: output
+          serviceTime:
+            exp:
+              lambda: AverageTaskDuration
+          type: Processor
+      dynamicsViews:
+        - AverageTaskDuration: 1
+          name: Automated Task
+          status: Idle
+          type: Processor
+      economicView:
+        name: Python Script
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        shortDescription: Python script for automating DocumentAI and LLM processing
+        viewType: description
+      editableName: Python Script
+      functionView:
+        activityRatio: 0
+        completeAndAccuratePerc: 0
+        leadTime: 0
+        leadTimeSeconds: 0
+        name: Python
+        processTime: 0
+        processTimeSeconds: 0
+        shortDescription: Python script for automating DocumentAI and LLM processing
+        viewType: metrics
+      id: ""
+      imgBlackUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1663310164/sds_logos/Programming%20Languages/Python_A__Black_87_nciqru.png
+      imgPrimaryUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1663310164/sds_logos/Programming%20Languages/Python_A__044448_g32jqq.png
+      imgUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1663310164/sds_logos/Programming%20Languages/Python_A_sgxbzs.png
+      name: Python
+      nodeType: html
+      selectedDynamicsView: 0
+      size: sm
+      status: N/A
+      title: Python
+      type: component
+      latitude: null
+      longitude: null
+    height: 100
+    id: PythongW3mO
+    offsetX: 466
+    offsetY: 4
+    width: 300
+    zIndex: 8
+    inEdges:
+      - Dashed Straight ConnectorPRrFI
+    outEdges:
+      - Dashed Straight ConnectorE84oZ
+      - Dashed Straight ConnectorFLHSg
+  - shape:
+      type: HTML
+      content: '<div class="c-html" style="background-color: #4e3391; border-radius:
+        10px"><div class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_Black_87_v2_ct6mrg.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_v2_bydnxv.png);
+        border-radius: 10px"></div></div><div class="c-undername"><div>Text
+        Data</div></div><hr class="c-underrule" style="background-color:
+        #4e3391"></div>'
+    id: Text DataDhrGc
+    addInfo:
+      functionView:
+        leadTime: 0
+        leadTimeSeconds: 0
+        processTime: 0
+        processTimeSeconds: 0
+        completeAndAccuratePerc: 0
+        activityRatio: 0
+        viewType: metrics
+        name: Text Data
+      economicView:
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        viewType: total
+        name: Text Data
+      status: N/A
+      size: sm
+      nodeType: html
+      title: Text Data
+      editableName: Text Data
+      type: component
+      id: ""
+      dynamicsViewSettings:
+        - name: Data Generator
+          type: Generator
+          portsIn: {}
+          portsOut:
+            job: data
+          messageInterdepartureTime:
+            exp:
+              lambda: AverageTimeBetweenData
+      dynamicsViews:
+        - type: Generator
+          status: Idle
+          name: Data Generator
+          AverageTimeBetweenData: 1
+      name: Text Data
+      category: 3
+      imgUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_v2_bydnxv.png
+      imgPrimaryUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text__044448_v2_em4fvj.png
+      imgBlackUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_Black_87_v2_ct6mrg.png
+      color: "#4e3391"
+      controlText: Text Data
+      selectedDynamicsView: 0
+      collapsedToSquare: false
+      collapsedToNamedSquare: true
+      collapsedToCircle: false
+    width: 100
+    height: 124
+    offsetX: 542
+    offsetY: 161
+    zIndex: 6
+    outEdges:
+      - Orthogonal ConnectorNCexq
+  - shape:
+      type: HTML
+      content: '<div class="c-html" style="background-color: #227BAB;"><div
+        class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1712526945/Gemini_Black_87_r9nuw0.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1712526945/Gemini_x94i26.png);"></div><div
+        class="c-text"><div class="c-title">Gemini</div><div
+        class="c-short-description">Gemini Pro large language model from
+        Google</div><div class="c-bottom"><div class="c-hr p-mb-1"></div><div
+        class="c-title-bottom">Gemini</div></div></div></div></div>'
+    id: GeminiamgnV
+    addInfo:
+      functionView:
+        leadTime: 0
+        leadTimeSeconds: 0
+        processTime: 0
+        processTimeSeconds: 0
+        completeAndAccuratePerc: 0
+        activityRatio: 0
+        viewType: metrics
+        name: Gemini
+        shortDescription: Gemini Pro large language model from Google
+      economicView:
+        name: Gemini
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        shortDescription: Gemini Pro large language model from Google
+        viewType: description
+      status: N/A
+      size: sm
+      nodeType: html
+      title: Gemini
+      editableName: Gemini
+      type: component
+      id: ""
+      dynamicsViewSettings:
+        - name: Processing Tool
+          type: Processor
+          portsIn:
+            job: input
+          portsOut:
+            job: output
+          serviceTime:
+            exp:
+              lambda: AverageProcessingTime
+      dynamicsViews:
+        - type: Processor
+          status: Idle
+          name: Processing Tool
+          AverageProcessingTime: 1
+      name: Gemini
+      category: 0
+      imgUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1712526945/Gemini_x94i26.png
+      imgPrimaryUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1712526945/Gemini__044448_yn7xvu.png
+      imgBlackUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1712526945/Gemini_Black_87_r9nuw0.png
+      color: "#227BAB"
+      controlText: Gemini
+      selectedDynamicsView: 0
+      collapsedToSquare: false
+      collapsedToNamedSquare: false
+      collapsedToCircle: false
+      latitude: null
+      longitude: null
+    width: 300
+    height: 100
+    offsetX: 791.5
+    offsetY: 61
+    zIndex: 10
+    outEdges:
+      - Dashed Straight ConnectorUiy5b
+  - shape:
+      type: HTML
+      content: '<div class="c-html" style="background-color: #4e3391; border-radius:
+        10px"><div class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_Black_87_v2_ct6mrg.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_v2_bydnxv.png);
+        border-radius: 10px"></div></div><div
+        class="c-undername"><div>Index</div></div><hr class="c-underrule"
+        style="background-color: #4e3391"></div>'
+    id: Text Datap2He2
+    addInfo:
+      functionView:
+        leadTime: 0
+        leadTimeSeconds: 0
+        processTime: 0
+        processTimeSeconds: 0
+        completeAndAccuratePerc: 0
+        activityRatio: 0
+        viewType: metrics
+        name: Text Data
+      economicView:
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        viewType: total
+        name: Text Data
+      status: N/A
+      size: sm
+      nodeType: html
+      title: Text Data
+      editableName: Index
+      type: component
+      id: ""
+      dynamicsViewSettings:
+        - name: Data Generator
+          type: Generator
+          portsIn: {}
+          portsOut:
+            job: data
+          messageInterdepartureTime:
+            exp:
+              lambda: AverageTimeBetweenData
+      dynamicsViews:
+        - type: Generator
+          status: Idle
+          name: Data Generator
+          AverageTimeBetweenData: 1
+      name: Text Data
+      category: 3
+      imgUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_v2_bydnxv.png
+      imgPrimaryUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text__044448_v2_em4fvj.png
+      imgBlackUrl: https://res.cloudinary.com/dwohyn92h/image/upload/v1681199390/sds_logos/Document_text_Black_87_v2_ct6mrg.png
+      color: "#4e3391"
+      controlText: Text Data
+      selectedDynamicsView: 0
+      latitude: null
+      longitude: null
+      collapsedToSquare: false
+      collapsedToNamedSquare: true
+      collapsedToCircle: false
+    width: 100
+    height: 124
+    offsetX: 1041
+    offsetY: 161
+    zIndex: 11
+    inEdges:
+      - Orthogonal ConnectoruvRRs
+  - shape:
+      type: HTML
+      content: '<div class="c-html" style="background-color: #3871e0;"><div
+        class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_Black_87_vxjlos.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_lkhlnv.png);"></div><div
+        class="c-text"><div class="c-title">Vertex AI</div><div
+        class="c-short-description">Deploying, building, and managing machine
+        learning models</div><div class="c-bottom"><div class="c-hr
+        p-mb-1"></div><div class="c-title-bottom">Google Cloud
+        Platform</div></div></div></div></div>'
+    id: Vertex AINimBo
+    addInfo:
+      functionView:
+        leadTime: 0
+        leadTimeSeconds: 0
+        processTime: 0
+        processTimeSeconds: 0
+        completeAndAccuratePerc: 0
+        activityRatio: 0
+        viewType: metrics
+        name: Vertex AI
+        shortDescription: Deploying, building, and managing machine learning models
+      economicView:
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        viewType: total
+        name: Vertex AI
+      status: N/A
+      size: sm
+      nodeType: html
+      title: Vertex AI
+      editableName: Vertex AI
+      type: component
+      id: ""
+      dynamicsViewSettings:
+        - name: Processing Tool
+          type: Processor
+          portsIn:
+            job: input
+          portsOut:
+            job: output
+          serviceTime:
+            exp:
+              lambda: AverageProcessingTime
+      dynamicsViews:
+        - type: Processor
+          status: Idle
+          name: Processing Tool
+          AverageProcessingTime: 1
+      name: Vertex AI
+      category: 4
+      imgUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_lkhlnv.png
+      imgPrimaryUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai__044448_bktfch.png
+      imgBlackUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_Black_87_vxjlos.png
+      color: "#3871e0"
+      controlText: Vertex AI
+      selectedDynamicsView: 0
+      latitude: null
+      longitude: null
+    width: 300
+    height: 100
+    offsetX: 791.5
+    offsetY: 221
+    zIndex: 12
+    inEdges:
+      - Dashed Straight ConnectorUiy5b
+      - Orthogonal ConnectorNCexq
+      - Dashed Straight ConnectorFLHSg
+    outEdges:
+      - Orthogonal ConnectoruvRRs
+  - shape:
+      type: Basic
+      cornerRadius: 10
+    id: Logical GroupAKMni
+    width: 320
+    height: 280
+    previewSize:
+      width: 320
+      height: 120
+    offsetX: 791.5
+    offsetY: 141
+    style:
+      fill: none
+      strokeColor: "#2A2A2A"
+      strokeDashArray: 4 4
+      strokeWidth: 2
+    annotations:
+      - id: PlUbE
+        content: Ran over each page of content
+        offset:
+          x: 0
+          y: 0
+        horizontalAlignment: Left
+        verticalAlignment: Bottom
+        style:
+          fill: white
+          fontSize: 14
+          bold: true
+          color: 2A2A2A
+    addInfo:
+      functionView:
+        leadTime: 0
+        leadTimeSeconds: 0
+        processTime: 0
+        processTimeSeconds: 0
+        completeAndAccuratePerc: 0
+        activityRatio: 0
+        viewType: metrics
+      economicView:
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        viewType: total
+      status: N/A
+      type: annotation
+    zIndex: 0
+  - shape:
+      type: HTML
+      content: '<div class="c-html" style="background-color: #3871e0;"><div
+        class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_Black_87_vxjlos.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_lkhlnv.png);"></div><div
+        class="c-text"><div class="c-title">Vertex AI Workbench</div><div
+        class="c-short-description">Managed Jupyter notebook environment for
+        running Python code</div><div class="c-bottom"><div class="c-hr
+        p-mb-1"></div><div class="c-title-bottom">Google Cloud
+        Platform</div></div></div></div></div>'
+    id: Vertex AIcG0sT
+    addInfo:
+      functionView:
+        leadTime: 0
+        leadTimeSeconds: 0
+        processTime: 0
+        processTimeSeconds: 0
+        completeAndAccuratePerc: 0
+        activityRatio: 0
+        viewType: metrics
+        name: Vertex AI
+        shortDescription: Managed Jupyter notebook environment for running Python code
+      economicView:
+        name: Vertex AI Workbench
+        cpus: 110
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        shortDescription: Managed Jupyter notebook environment for running Python code
+        viewType: total
+      status: N/A
+      size: sm
+      nodeType: html
+      title: Vertex AI
+      editableName: Vertex AI Workbench
+      type: component
+      id: ""
+      dynamicsViewSettings:
+        - name: Processing Tool
+          type: Processor
+          portsIn:
+            job: input
+          portsOut:
+            job: output
+          serviceTime:
+            exp:
+              lambda: AverageProcessingTime
+      dynamicsViews:
+        - type: Processor
+          status: Idle
+          name: Processing Tool
+          AverageProcessingTime: 1
+      name: Vertex AI
+      category: 4
+      imgUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_lkhlnv.png
+      imgPrimaryUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai__044448_bktfch.png
+      imgBlackUrl: https://storage.googleapis.com/nodematic/sds_logos/GoogleCloud/vertexai_Black_87_vxjlos.png
+      color: "#3871e0"
+      controlText: Vertex AI
+      selectedDynamicsView: 0
+      location: "[GCP] us-central1"
+      latitude: 41.26194
+      longitude: -95.86083
+    width: 300
+    height: 100
+    offsetX: 466
+    offsetY: -127
+    zIndex: 18
+    outEdges:
+      - Dashed Straight ConnectorPRrFI
+  - shape:
+      type: HTML
+      content: '<div class="c-html" style="background-color: #BA5512; border-radius:
+        50%"><div class="c-container"><div class="c-image-primary"
+        style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/Jupyter_Black_87_uahk2k.png);"></div><div
+        class="c-image-original" style="background-image:
+        url(https://storage.googleapis.com/nodematic/sds_logos/Jupyter_lm2xh2.png);
+        border-radius: 50%"></div></div></div>'
+    id: JupyterXVZnT
+    addInfo:
+      functionView:
+        leadTime: 0
+        leadTimeSeconds: 0
+        processTime: 0
+        processTimeSeconds: 0
+        completeAndAccuratePerc: 0
+        activityRatio: 0
+        viewType: metrics
+        name: Jupyter
+      economicView:
+        cpus: 0
+        memory: 0
+        storage: 0
+        networking: 0
+        accelerators: 0
+        other: 0
+        unknown: false
+        viewType: total
+        name: Jupyter
+      status: N/A
+      size: sm
+      nodeType: html
+      title: Jupyter
+      editableName: Jupyter
+      type: component
+      id: ""
+      dynamicsViewSettings:
+        - name: IDE
+          type: Generator
+          portsIn: {}
+          portsOut:
+            job: request
+          messageInterdepartureTime:
+            exp:
+              lambda: AverageTimeBetweenRequests
+      dynamicsViews:
+        - type: Generator
+          status: Idle
+          name: IDE
+          AverageTimeBetweenRequests: 1
+      name: Jupyter
+      category: 9
+      imgUrl: https://storage.googleapis.com/nodematic/sds_logos/Jupyter_lm2xh2.png
+      imgPrimaryUrl: https://storage.googleapis.com/nodematic/sds_logos/Jupyter__044448_fyi1ig.png
+      imgBlackUrl: https://storage.googleapis.com/nodematic/sds_logos/Jupyter_Black_87_uahk2k.png
+      color: "#BA5512"
+      controlText: Jupyter
+      selectedDynamicsView: 0
+      collapsedToSquare: false
+      collapsedToNamedSquare: false
+      collapsedToCircle: true
+    width: 100
+    height: 100
+    offsetX: 656
+    offsetY: -105
+    zIndex: 17
+selectedItems:
+  height: 0
+  width: 0
